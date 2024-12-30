@@ -23,8 +23,6 @@ body {
     padding-block: var(--space-m);
 }
 
-/* wrapper ------------------------------------------------------- */
-
 .three {
     padding-block: var(--space-m);
     border: var(--stroke-weight-light) solid var(--color-light);
